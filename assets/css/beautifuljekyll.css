@@ -1119,3 +1119,9 @@ pre {
     display: inline-block;
   }
 }
+#aboutme-images {
+  white-space: nowrap;
+}
+#aboutme-section {
+  font-size: 1.1875rem;
+}
