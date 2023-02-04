@@ -835,18 +835,25 @@ table {
   font-size: 0.9em;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   min-width: 400px;
-  box-shadow: 0 0 20px rgba(0, 0, 0,);
+  box-shadow: 0 0 20px rgba(0, 0, 0);
 }
 table thead tr {
   background-color: #009879;
   color: #ffffff
 }
-table tr {
+
+table th,
+table td {
+    padding: 12px 15px;
+}
+
+
+/* table tr {
   border-top: 1px solid #cccccc;
   background-color: #ffffff;
   margin: 0;
   padding: 0;
-}
+} */
 /* table tr:nth-child(2n) {
   background-color: #f8f8f8;
 } */
