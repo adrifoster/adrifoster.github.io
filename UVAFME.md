@@ -21,13 +21,15 @@ See the [UVAFME website](https://uvafme.github.io) or [GitHub page](https://gith
 <br>
 <br>
 # Recent papers using UVAFME
+<br>
+<br>
 
-| Title                | Authors   | Journal | Year | DOI      |
-| :------------------- |:--------- | :--- |:-------- | :--- |
-| Bottom-up drivers of future fire regimes in western boreal North America| Foster, Shuman, et al. | *Environmental Research Letters* | 2022 | [10.1088/1748-9326/ac4c1e](https://iopscience.iop.org/article/10.1088/1748-9326/ac4c1e) | 
-| Bridging implementation gaps to connect large ecological datasets and complex models | Raiho, Nicklen et al.  | *Ecology and Evolution* |  2021 | [10.1002/ece3.8420](https://doi.org/10.1002/ece3.8420) |
-| Importance of tree- and species-level interactions with wildfire, climate, and soils in interior Alaska: Implications for forest change under a warming climate | Foster, Armstrong, et al.  | *Ecological Modelling* | 2019 | [10.1016/j.ecolmodel.2019.108765](https://www.sciencedirect.com/science/article/pii/S030438001930273X?via%3Dihub) |
-| Modeling the interactive effects of spruce beetle infestation and climate on subalpine vegetation | Foster, Shuman, et al.  | *Ecosphere* | 2018 | [10.1002/ecs2.2437](https://doi.org/10.1002/ecs2.2437) |
-| Fire disturbance and climate change: implications for Russian forests. | Shuman, Foster, et al.  | *Environmental Research Letters* | 2017 | [10.1088/1748-9326/aa5eed](https://iopscience.iop.org/article/10.1088/1748-9326/aa5eed) |
-| Validation and application of a forest gap model to the southern Rocky Mountains | Foster, Shuman, et al.  | *Ecological Modelling* | 2017 | [10.1016/j.ecolmodel.2017.02.019](https://doi.org/10.1016/j.ecolmodel.2017.02.019) |
-| An individual-based model of forest volatile organic compound emissions-UVAFME-VOC v1.0 | Wang, Shugart, et al.  | *Ecological Modelling* | 2017 | [10.1016/j.ecolmodel.2017.02.006](https://doi.org/10.1016/j.ecolmodel.2017.02.006) |
+| Title                | Authors   | Journal | Year | 
+| :------------------- |:--------- | :--- |:--------: | 
+| [Bottom-up drivers of future fire regimes in western boreal North America](https://iopscience.iop.org/article/10.1088/1748-9326/ac4c1e)| Foster, Shuman, et al. | *Environmental Research Letters* | 2022 |  
+|[ Bridging implementation gaps to connect large ecological datasets and complex models](https://doi.org/10.1002/ece3.8420) | Raiho, Nicklen et al.  | *Ecology and Evolution* |  2021 | 
+| [Importance of tree- and species-level interactions with wildfire, climate, and soils in interior Alaska: Implications for forest change under a warming climate](https://www.sciencedirect.com/science/article/pii/S030438001930273X?via%3Dihub)  | Foster, Armstrong, et al.  | *Ecological Modelling* | 2019 | 
+| [Modeling the interactive effects of spruce beetle infestation and climate on subalpine vegetation](https://doi.org/10.1002/ecs2.2437) | Foster, Shuman, et al.  | *Ecosphere* | 2018 | 
+| [Fire disturbance and climate change: implications for Russian forests](https://iopscience.iop.org/article/10.1088/1748-9326/aa5eed)  | Shuman, Foster, et al.  | *Environmental Research Letters* | 2017 | 
+| [Validation and application of a forest gap model to the southern Rocky Mountains](https://doi.org/10.1016/j.ecolmodel.2017.02.019)| Foster, Shuman, et al.  | *Ecological Modelling* | 2017 | 
+| [An individual-based model of forest volatile organic compound emissions-UVAFME-VOC v1.0](https://doi.org/10.1016/j.ecolmodel.2017.02.006)| Wang, Shugart, et al.  | *Ecological Modelling* | 2017 | 
