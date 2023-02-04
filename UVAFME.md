@@ -7,7 +7,7 @@ subtitle: Individual tree-based modeling
 My graduate and postdoctoral work focused on updating and applying an individual tree-based model called UVAFME (the University of Virginia Forest Model Enhanced). I am still the lead developer for UVAFME.
 
 
-<img align="center" width="100" height="100" src="{{ 'assets/img/UVAFME_Animation.gif' | relative_url }}">
+<img align="center" src="{{ 'assets/img/UVAFME_Animation.gif' | relative_url }}">
 
 
 
