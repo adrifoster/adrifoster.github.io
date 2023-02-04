@@ -6,10 +6,7 @@ subtitle: Individual tree-based modeling
 
 My graduate and postdoctoral work focused on updating and applying an individual tree-based model called UVAFME (the University of Virginia Forest Model Enhanced). I am still the lead developer for UVAFME.
 
-
-<img align="center" src="{{ 'assets/img/UVAFME_Animation.gif' | relative_url }}">
-
-
+![UVAFMEAnimation](assets/img/UVAFME_Animation.gif){: .mx-auto.d-block :}
 
 UVAFME simulates the annual establishment, growth, and mortality of individual trees on independent patches (i.e. plots) of a forested landscape. Through a Monte Carlo-style aggregation, the average of several hundred of these independent patches represents the average expected conditions of a forested landscape through time. As such, output from UVAFME is comparable to a statistically robust sampling of replicate forest inventory plots.
 
@@ -21,6 +18,16 @@ the model has since been updated for use in [boreal Russia](http://iopscience.io
 [the southern Rocky Mountains](https://www.sciencedirect.com/science/article/pii/S0304380016306482), [the eastern US](https://www.nature.com/articles/srep22133), as well as [boreal North America](https://www.sciencedirect.com/science/article/pii/S030438001930273X).
 
 See the [UVAFME website](https://uvafme.github.io) or [GitHub page](https://github.com/UVAFME/UVAFME_model) for more information about the model.
+<br>
+<br>
+# Recent papers using UVAFME
 
-
-
+| Title                | Authors   | Journal | Year | DOI      |
+| :------------------- |:--------- | :--- |:-------- | :--- |
+| Bottom-up drivers of future fire regimes in western boreal North America| Foster, Shuman, et al. | *Environmental Research Letters* | 2022 | [10.1088/1748-9326/ac4c1e](https://iopscience.iop.org/article/10.1088/1748-9326/ac4c1e) | 
+| Bridging implementation gaps to connect large ecological datasets and complex models | Raiho, Nicklen et al.  | *Ecology and Evolution* |  2021 | [10.1002/ece3.8420](https://doi.org/10.1002/ece3.8420) |
+| Importance of tree- and species-level interactions with wildfire, climate, and soils in interior Alaska: Implications for forest change under a warming climate | Foster, Armstrong, et al.  | *Ecological Modelling* | 2019 | [10.1016/j.ecolmodel.2019.108765](https://www.sciencedirect.com/science/article/pii/S030438001930273X?via%3Dihub) |
+| Modeling the interactive effects of spruce beetle infestation and climate on subalpine vegetation | Foster, Shuman, et al.  | *Ecosphere* | 2018 | [10.1002/ecs2.2437](https://doi.org/10.1002/ecs2.2437) |
+| Fire disturbance and climate change: implications for Russian forests. | Shuman, Foster, et al.  | *Environmental Research Letters* | 2017 | [10.1088/1748-9326/aa5eed](https://iopscience.iop.org/article/10.1088/1748-9326/aa5eed) |
+| Validation and application of a forest gap model to the southern Rocky Mountains | Foster, Shuman, et al.  | *Ecological Modelling* | 2017 | [10.1016/j.ecolmodel.2017.02.019](https://doi.org/10.1016/j.ecolmodel.2017.02.019) |
+| An individual-based model of forest volatile organic compound emissions-UVAFME-VOC v1.0 | Wang, Shugart, et al.  | *Ecological Modelling* | 2017 | [10.1016/j.ecolmodel.2017.02.006](https://doi.org/10.1016/j.ecolmodel.2017.02.006) |
