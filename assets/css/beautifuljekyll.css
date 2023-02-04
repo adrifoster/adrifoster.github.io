@@ -831,6 +831,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 table {
   border-collapse: collapse;
+  margin: 25px 0;
   padding: 0;
 }
 table tr {
