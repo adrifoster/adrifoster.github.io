@@ -835,11 +835,14 @@ table {
   font-size: 0.9em;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   min-width: 400px;
-  box-shadow: 0 0 20px rgba(0, 0, 0);
+  box-shadow: 0 0 5px rgba(0, 0, 0);
 }
 table thead tr {
   background-color: #009879;
-  color: #ffffff
+  color: #ffffff;
+  border-top: 1px solid #cccccc;
+  margin: 0;
+  padding: 0;
 }
 
 table th,
@@ -847,16 +850,19 @@ table td {
     padding: 12px 15px;
 }
 
+table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
 
-/* table tr {
-  border-top: 1px solid #cccccc;
-  background-color: #ffffff;
-  margin: 0;
-  padding: 0;
-} */
-/* table tr:nth-child(2n) {
-  background-color: #f8f8f8;
-} */
+table tr:nth-child(2n) {
+  background-color: #f3f3f3;
+} 
+
+table tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+
 /* table tr th {
   font-weight: bold;
   border: 1px solid #cccccc;
