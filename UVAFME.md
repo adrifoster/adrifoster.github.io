@@ -22,7 +22,6 @@ See the [UVAFME website](https://uvafme.github.io) or [GitHub page](https://gith
 <br>
 # Recent papers using UVAFME
 <br>
-<br>
 
 | Title                | Authors   | Journal | Year | 
 | :------------------- |:--------- | :--- |:--------: | 
