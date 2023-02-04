@@ -30,4 +30,3 @@ See the [UVAFME website](https://uvafme.github.io) or [GitHub page](https://gith
 | [Modeling the interactive effects of spruce beetle infestation and climate on subalpine vegetation](https://doi.org/10.1002/ecs2.2437) | Foster, Shuman, et al.  | *Ecosphere* | 2018 | 
 | [Fire disturbance and climate change: implications for Russian forests](https://iopscience.iop.org/article/10.1088/1748-9326/aa5eed)  | Shuman, Foster, et al.  | *Environmental Research Letters* | 2017 | 
 | [Validation and application of a forest gap model to the southern Rocky Mountains](https://doi.org/10.1016/j.ecolmodel.2017.02.019)| Foster, Shuman, et al.  | *Ecological Modelling* | 2017 | 
-| [An individual-based model of forest volatile organic compound emissions-UVAFME-VOC v1.0](https://doi.org/10.1016/j.ecolmodel.2017.02.006)| Wang, Shugart, et al.  | *Ecological Modelling* | 2017 | 

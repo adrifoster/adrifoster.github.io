@@ -837,6 +837,7 @@ table {
   min-width: 400px;
   box-shadow: 0 0 5px rgba(0, 0, 0);
 }
+
 table thead tr {
   background-color: #009879;
   color: #ffffff;
@@ -862,6 +863,14 @@ table tbody tr:last-of-type {
   border-bottom: 2px solid #009879;
 }
 
+table tr th :first-child,
+table tr td :first-child {
+  margin-top: 0;
+}
+table tr th :last-child,
+table tr td :last-child {
+  margin-bottom: 0;
+}
 
 /* table tr th {
   font-weight: bold;
@@ -876,14 +885,6 @@ table tr td {
   margin: 0;
   padding: 0.375rem 0.8125rem;
 }
-table tr th :first-child,
-table tr td :first-child {
-  margin-top: 0;
-}
-table tr th :last-child,
-table tr td :last-child {
-  margin-bottom: 0;
-} */
 
 /* --- Code blocks --- */
 
