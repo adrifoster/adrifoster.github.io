@@ -835,7 +835,7 @@ table {
   font-size: 0.9em;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   min-width: 400px;
-  box-shadow: 0 0 20px rgba(0, 0, 0,)
+  box-shadow: 0 0 20px rgba(0, 0, 0,);
 }
 table thead tr {
   background-color: #009879;
