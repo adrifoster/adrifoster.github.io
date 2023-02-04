@@ -6,9 +6,10 @@ subtitle: Individual tree-based modeling
 
 My graduate and postdoctoral work focused on updating and applying an individual tree-based model called UVAFME (the University of Virginia Forest Model Enhanced). I am still the lead developer for UVAFME.
 
-![UVAFMEAnimation](/assets/img/UVAFME_Animation.gif)
 
-### UVAFME
+<img align="center" width="100" height="100" src="{{ 'assets/img/UVAFME_Animation.gif' | relative_url }}">
+
+
 
 UVAFME simulates the annual establishment, growth, and mortality of individual trees on independent patches (i.e. plots) of a forested landscape. Through a Monte Carlo-style aggregation, the average of several hundred of these independent patches represents the average expected conditions of a forested landscape through time. As such, output from UVAFME is comparable to a statistically robust sampling of replicate forest inventory plots.
 
