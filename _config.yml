@@ -17,8 +17,8 @@ navbar-links:
   About Me / Contact: "aboutme"
   Projects:
     - UVAFME: "UVAFME"
-    - Boreal North America: "BorealNA"
-    - FATES: "FATES"
+    #- Boreal North America: "BorealNA"
+    #- FATES: "FATES"
   CV: "resume"
 
 ################
