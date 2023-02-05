@@ -19,7 +19,7 @@ navbar-links:
     - UVAFME: "UVAFME"
     - Boreal North America: "BorealNA"
     - FATES: "FATES"
-  Download CV: <a href="AdriannaCFoster_Curriculum_Vitae.pdf" download>
+  CV: "resume"
 
 ################
 # --- Logo --- #
