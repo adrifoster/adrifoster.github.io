@@ -15,7 +15,7 @@ author: Adrianna Foster
 navbar-links:
   Home: "http://adrifoster.github.io"
   About Me / Contact: "aboutme"
-  Download CV: "resume"
+  Download CV: "https://github.com/adrifoster/adrifoster.github.io/blob/master/AdriannaCFoster_Curriculum_Vitae.pdf"
   Projects:
     - UVAFME: "UVAFME"
     - Boreal North America: "BorealNA"
