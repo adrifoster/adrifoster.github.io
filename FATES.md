@@ -14,7 +14,7 @@ FATES represents the biosphere as a division of land surface units into differen
 For more information about FATES, see the [GitHub page](https://github.com/NGEET/fates).
 <br>
 <br>
-## Applications within NEON network
+## Applications within the NEON network
 
 I am currently working on applying FATES at several sites within the [National Ecological Observatory Network](https://www.neonscience.org/) (NEON). With FATES, we are necessarily in the business of capturing ecological processes across multiple scales, such as the cell-level processes of photosynthesis and transpiration, leaf-level processes like stomatal conductance and the impact on boundary layer dynamics, as well as tree and stand level processes like carbon allocation and competition for resources.
 
@@ -26,7 +26,7 @@ Specifically, I am working on initializing FATES with forest inventory and aeria
 
 Through initialization, we aim to improve simulations of current and future forest conditions at these sites. For more information about using FATES-CTSM at the NEON sites see the[ NCAR-NEON Community Collaboration page](https://www.neonscience.org/ncar-neon-community-collaborations).
 
-## Global FATES Calibration
+## Global FATES calibration
 
 In collaboration with others at NCAR and other institutions, I am working to calibrate FATES globally using FATES' different [complexity modes](https://fates-users-guide.readthedocs.io/en/latest/user/Fixed-Biogeography-Mode.html). Because of FATES’ multi-scale nature, and the fact that these scales often interact non-linearly with one another, it can be very difficult to calibrate across all scales at once. 
 
