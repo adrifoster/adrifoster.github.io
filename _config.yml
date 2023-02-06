@@ -16,9 +16,9 @@ navbar-links:
   Home: "http://adrifoster.github.io"
   About Me / Contact: "aboutme"
   Projects:
+    - FATES: "FATES"
     - UVAFME: "UVAFME"
     #- Boreal North America: "BorealNA"
-    #- FATES: "FATES"
   CV: "resume"
 
 ################
