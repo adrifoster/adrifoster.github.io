@@ -24,7 +24,17 @@ Specifically, I am working on initializing FATES with forest inventory and aeria
 
 ![NEONLidar](assets/img/NEON_lidar.jpg){: .mx-auto.d-block :}
 
-Through initialization, we aim to improve simulations of current and future forest conditions at these sites.
+Through initialization, we aim to improve simulations of current and future forest conditions at these sites. For more information about using FATES-CTSM at the NEON sites see the[ NCAR-NEON Community Collaboration page](https://www.neonscience.org/ncar-neon-community-collaborations).
+
+## Global FATES Calibration
+
+In collaboration with others at NCAR and other institutions, I am working to calibrate FATES globally using FATES' different [complexity modes](https://fates-users-guide.readthedocs.io/en/latest/user/Fixed-Biogeography-Mode.html). Because of FATES’ multi-scale nature, and the fact that these scales often interact non-linearly with one another, it can be very difficult to calibrate across all scales at once. 
+
+![biomass](assets/img/biomass_benchmarking.png){: .mx-auto.d-block :}
+
+The different complexity modes of FATES allows us to hold these different processes constant while testing other parts of the model. For example, testing in FATES-Satellite Phenology model allows us to drill down into biophysical parameters while fixed biogeography mode allows us to test parts of the model that deal with competition and C allocation. The below figure shows the input parameters shown to be most impactful on simulated albedo in FATES-Satellite Phenology mode - we will calibrate these parameters (among others) in this mode.
+
+![PPE](assets/img/PPE.png){: .mx-auto.d-block :}
 
 
-
+We aim to calibrate FATES in successively more complex modes, ultimately resulting in a robust global configuration of FATES.
