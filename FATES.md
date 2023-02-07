@@ -32,9 +32,6 @@ In collaboration with others at NCAR and other institutions, I am working to cal
 
 ![biomass](assets/img/biomass_benchmarking.png){: .mx-auto.d-block :}
 
-The different complexity modes of FATES allows us to hold these different processes constant while testing other parts of the model. For example, testing in FATES-Satellite Phenology model allows us to drill down into biophysical parameters while fixed biogeography mode allows us to test parts of the model that deal with competition and C allocation. The below figure shows the input parameters shown to be most impactful on simulated albedo in FATES-Satellite Phenology mode - we will calibrate these parameters (among others) in this mode.
-
-![PPE](assets/img/PPE.png){: .mx-auto.d-block :}
-
+The different complexity modes of FATES allows us to hold these different processes constant while testing other parts of the model. For example, testing in FATES-Satellite Phenology model allows us to drill down into biophysical parameters while fixed biogeography mode allows us to test parts of the model that deal with competition and C allocation. 
 
 We aim to calibrate FATES in successively more complex modes, ultimately resulting in a robust global configuration of FATES.
